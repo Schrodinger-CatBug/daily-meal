@@ -1,0 +1,3 @@
+[submodule "Schrodinger-CatBug.github.io"]
+	path = Schrodinger-CatBug.github.io
+	url = git@github.com:Schrodinger-CatBug/Schrodinger-CatBug.github.io.git
