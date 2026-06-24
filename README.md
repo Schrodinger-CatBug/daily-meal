@@ -13,3 +13,4 @@
 ## 文档
 
 - [个人信息与饮食建议](docs/personal-profile-and-diet.md)
+- [7 天个人饮食记录与建议](docs/weekly-diet-plan.md)
